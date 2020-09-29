@@ -3,4 +3,8 @@
 
 # install
 
-git clone https://github.com/Hacking-Technology/gen-windopaylode.git; cd gen-windopaylode; chmod +x install.sh; ./install.sh
+# git clone https://github.com/Hacking-Technology/gen-windopaylode.git; cd gen-windopaylode; chmod +x install.sh; ./install.sh
+
+# contact
+
+# instagram https://www.instagram.com/king_of_darknet/
